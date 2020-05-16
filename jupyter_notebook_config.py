@@ -4,3 +4,4 @@
 # we have SSL certificates enabled for encryption purposes.
 c.NotebookApp.ip = "*"
 c.NotebookApp.open_browser = False
+c.NotebookApp.password = "zhou6790296"
